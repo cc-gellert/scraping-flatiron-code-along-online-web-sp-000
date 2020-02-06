@@ -34,7 +34,6 @@ class Scraper
       end
     end
   end
-  
 end
 
 Scraper.new.get_page 
